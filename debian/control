@@ -1,0 +1,12 @@
+Source: ros-indigo-nao-gazebo-plugin
+Section: misc
+Priority: extra
+Maintainer: Mikael Arguedas <mikael.arguedas@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-nao-gazebo-plugin
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-gazebo-ros, ros-indigo-nao-control, ros-indigo-nao-description
+Description: The nao_gazebo_plugin package
