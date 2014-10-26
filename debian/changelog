@@ -1,0 +1,27 @@
+ros-hydro-nao-gazebo-plugin (0.0.2-0raring) raring; urgency=high
+
+  * add missing runtime dependencies
+  * fix typos
+  * fix bad code block display
+  * Update README.rst
+  * bug fix on images path
+  * add images to readme
+  * update README
+  * new world + README file
+  * update dependency list
+  * new world file for real time testing
+  * Contributors: Arguedas Mikael, Vincent Rabaud, margueda
+
+ -- Mikael Arguedas <mikael.arguedas@gmail.com>  Sun, 26 Oct 2014 23:00:00 -0000
+
+ros-hydro-nao-gazebo-plugin (0.0.1-0raring) raring; urgency=high
+
+  * cleanups
+  * new PID values
+  * putting back nao_dcm namespace in config files
+  * nao_control and nao_gazebo to simulate nao
+  * Contributors: Vincent Rabaud, margueda
+
+ -- Mikael Arguedas <mikael.arguedas@gmail.com>  Sat, 27 Sep 2014 22:00:00 -0000
+
+
