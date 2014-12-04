@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>nao_control</name>
+  <version>0.0.2</version>
+  <description>The nao_control package</description>
+
+  <maintainer email="mikael.arguedas@gmail.com">Mikael Arguedas</maintainer>
+
+  <license>Apache 2.0</license>
+
+  <author email="mikael.arguedas@gmail.com">Mikael Arguedas</author>
+
+  <run_depend>controller_manager</run_depend>
+  <run_depend>robot_state_publisher</run_depend>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
